@@ -24,8 +24,9 @@ function App() {
             </Route>
           </header>
         </Layout>
-        {/* add this line from with in Github*/}
-      
+        {/* add this line */}
+
+        {/* this line was aadded from VSCode locally */}
       </Switch>
     </div>
   );
