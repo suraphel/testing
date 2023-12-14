@@ -10,7 +10,8 @@ function HomePage() {
         marginTop: "45px",
       }}
     >
-      Welcome to our absolutely demo employee record page
+      Welcome to our absolutely demo employee record page This line was added
+      from the new feature page.
     </h1>
   );
 }
